@@ -1,4 +1,4 @@
-# Auth.md - Postman Testing Guide
+## Postman Testing Guide
 
 ## Complete Postman Collection for Authentication Testing
 
